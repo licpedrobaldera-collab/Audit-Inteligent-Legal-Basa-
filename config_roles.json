@@ -1,0 +1,26 @@
+[
+  {
+    "id": "BASA-001",
+    "correo": "Licpedrobaldera@gmail.com",
+    "rnc": "133378711",
+    "password_hash": "b8a9f664a7810df66cf8e788bc26e828d15a5105ec0bc6fcdeec66e74b5a2bf8",
+    "rol": "admin_master_full",
+    "nombre": "Pedro A. Baldera Rondon - RNC133378711 - E32",
+    "ncf_tipo_default": "E32",
+    "clientes_asignados": [
+      "*"
+    ]
+  },
+  {
+    "id": "CLI-001",
+    "correo": "cliente@empresa.com",
+    "rnc": "130000002",
+    "password_hash": "2f61821db26659f8c1f038c1a649fb369cc25555d0458df241d7e10c7fb8f3f8",
+    "rol": "cliente",
+    "nombre": "Ferreteria Ejemplo SRL - RNC 130000002",
+    "ncf_tipo_default": "E32",
+    "clientes_asignados": [
+      "CLI-001"
+    ]
+  }
+]

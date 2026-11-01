@@ -1,0 +1,6 @@
+{
+  "name": "BASA v3.0 - 1 SOLO 1 | Sistema Jurídico & e-CF DGII",
+  "description": "Plataforma oficial BASA v3.0 para radicación de casos, gestión de expedientes e investigación legal con base de datos por cliente y facturación electrónica e-CF DGII RNC 133378711.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
